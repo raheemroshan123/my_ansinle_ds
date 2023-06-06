@@ -1,0 +1,22 @@
+---
+- mystudents: 
+  - name: roshan
+    phno: 7337011985
+    addres: 
+       drno: 020
+       street: 2nd
+       pincode: 533401
+
+  - name: raheem
+    phno: 7702539945
+    addres:
+       drno: 1230
+       street: 5th
+       pincode: 550021
+
+  - name: krishna
+    phno: 7788002255
+    addres:   
+       drno: 143
+       street: 9th
+       pincode: 500199
