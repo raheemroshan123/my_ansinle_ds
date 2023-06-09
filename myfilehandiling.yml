@@ -6,7 +6,8 @@
   - name: i want to install webserver
     apt: 
       name: apache2
-      
+    notify: restartwebserver
+          
   - name: copy index file into node side
     copy: 
       src: myindexfile
