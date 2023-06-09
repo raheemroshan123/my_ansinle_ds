@@ -19,6 +19,6 @@
       force_basic_auth: yes   
    
   - name: i want to copy dynamic file into nodes
-  template: 
-      src: 
+    template: 
+      src: myindex.j2
       dest: /var/www/html/index.html
