@@ -1,3 +1,7 @@
 ---
-- key: vlaues
-# space notation
+
+- name: i want to create a file
+  file: 
+      path: /home/ubuntu/testfile
+      state: touch
+  
