@@ -1,2 +1,6 @@
 ---
 # tasks file for mytomrole
+- inculed_tasks: myuser.yml 
+- inculed_tasks: installjava.yml
+- inculed_tasks: download.yml
+- inculed_tasks: persmission.yml
