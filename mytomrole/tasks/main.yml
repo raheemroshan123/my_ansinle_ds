@@ -4,3 +4,4 @@
 - inculed_tasks: installjava.yml
 - inculed_tasks: download.yml
 - inculed_tasks: persmission.yml
+- inculed_tasks: tomdashboard.yml
